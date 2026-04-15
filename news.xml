@@ -1,0 +1,15 @@
+<rss version="2.0">
+<channel>
+<title>Cortana News</title>
+<link>http://faithvoid.github.io/sakurasystem</link>
+<description>sakuraSystem - News</description>
+<language>en-us</language>
+<category>News</category>
+<item>
+<title>sakuraSystem v0.1 - First Release</title>
+<description>
+Welcome to sakuraSystem v0.1, keep your eyes on this page for more updates as they become available!
+</description>
+</item>
+</channel>
+</rss>
